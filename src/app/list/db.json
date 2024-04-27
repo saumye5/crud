@@ -1,0 +1,22 @@
+{
+  "angular": [
+    {
+      "id": "9aca",
+      "name": "saumye upadhyay",
+      "password": "thekingoskings",
+      "city": "aligarh braj "
+    },
+    {
+      "id": "91fd",
+      "name": "shikhar tripathi",
+      "password": "iiisda",
+      "city": "sultanpur"
+    },
+    {
+      "id": "d7c2",
+      "name": "sarthak srivastava",
+      "password": "chutiyadsadsa",
+      "city": "allahabad"
+    }
+  ]
+}
