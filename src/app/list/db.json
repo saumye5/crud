@@ -17,6 +17,12 @@
       "name": "sarthak srivastava",
       "password": "chutiyadsadsa",
       "city": "allahabad"
+    },
+    {
+      "id": "f6ab",
+      "name": "hello",
+      "password": "fdfsddad",
+      "city": "london"
     }
   ]
 }
