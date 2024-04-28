@@ -1,28 +1,22 @@
 {
   "angular": [
     {
-      "id": "9aca",
+      "id": "b051",
       "name": "saumye upadhyay",
-      "password": "thekingoskings",
-      "city": "aligarh braj "
+      "password": "lesnar",
+      "city": "aligarh"
     },
     {
-      "id": "91fd",
-      "name": "shikhar tripathi",
-      "password": "iiisda",
-      "city": "sultanpur"
+      "id": "2cb2",
+      "name": "shubham",
+      "password": "dsadasd",
+      "city": "delihi"
     },
     {
-      "id": "d7c2",
-      "name": "sarthak srivastava",
-      "password": "chutiyadsadsa",
-      "city": "allahabad"
-    },
-    {
-      "id": "f6ab",
-      "name": "hello",
-      "password": "fdfsddad",
-      "city": "london"
+      "id": "9370",
+      "name": "sarthak pathak",
+      "password": "dsadsadasd",
+      "city": "noida"
     }
   ]
 }
